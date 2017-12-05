@@ -12,7 +12,6 @@ export {
 	DateUtils,
 	Align_old,
 	DateStates,
-	DateUtils,
 	DcsExpandable,
 	Expandable_legacy,
 	Markup_legacy,

@@ -10,5 +10,8 @@
     "type": "git"
   },
   "author": "RED Interactive Agency",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ad-utils": "file:../ad-utils"
+  }
 }

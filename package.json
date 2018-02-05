@@ -12,9 +12,9 @@
 	"author": "RED Interactive Agency",
 	"license": "ISC",
 	"dependencies": {
-		"ad-events": "git+https://github.com:ff0000-ad-tech/ad-events.git",
-		"ad-utils": "git+https://github.com:ff0000-ad-tech/ad-utils.git",
-		"ad-view": "git+https://github.com:ff0000-ad-tech/ad-view.git"
+		"ad-events": "git+https://github.com/ff0000-ad-tech/ad-events.git",
+		"ad-utils": "git+https://github.com/ff0000-ad-tech/ad-utils.git",
+		"ad-view": "git+https://github.com/ff0000-ad-tech/ad-view.git"
 	},
 	"devDependencies": {
 		"eslint": "^4.16.0",
